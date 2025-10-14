@@ -2,7 +2,7 @@
 Global News Aggregator
 A sophisticated cross-platform desktop application that aggregates news from sources around the world across multiple categories.
 
-![News Aggregator](https://github.com/AjarnSpencer/newsaggregator/blob/main/img/news-aggregate-iccon.png)
+![News Aggregator](https://github.com/AjarnSpencer/newsaggregator/blob/main/img/globalnewsaggregator.png)
 
 🌍 Overview
 News Aggregator is a comprehensive desktop application built with Python that in its initial commit was designed to bring together breaking news and categorized content from over 30 major news sources across 6 continents and 10+ languages. The application provides a unified interface to access global news with enhanced deep-dive research on each article. The Aggregator has now been updated to a more sophisticated app with expanded sources
