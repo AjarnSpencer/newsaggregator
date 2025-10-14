@@ -13,9 +13,11 @@ news-aggregator/
 │   └── build_mac.sh
 
 ├── assets/
+
 │   ├── icon.ico
 │   └── icon.icns
 
 ├── requirements.txt
+
 ├── README.md
 └── LICENSE
