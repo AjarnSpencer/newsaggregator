@@ -9,7 +9,7 @@ News Aggregator is a comprehensive desktop application built with Python that in
 
 🚀 Features
 📰 Multi-Source News Aggregation
--**New additions**-
+### New additions
 ---
 🌐 Expanded Sources: 30+ news sources from 6 continents and 10+ languages
 Categorized Content: 8 distinct categories (breaking, sports, tech, politics, culture, entertainment, music, weather)
