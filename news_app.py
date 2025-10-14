@@ -1,3 +1,4 @@
+# place this file in location src/news_app.py
 import sys
 import os
 import requests
