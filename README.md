@@ -9,9 +9,16 @@ News Aggregator is a comprehensive desktop application built with Python that br
 
 🚀 Features
 📰 Multi-Source News Aggregation
-Scrapes from 30+ global news sources including BBC, Reuters, CNN, Al Jazeera, The Guardian, and more
-Sources from 6 continents: North America, South America, Europe, Asia, Africa, and Oceania
-Supports 10+ languages with English, French, German, Spanish, Japanese, and Chinese sources
+-**New additions**
+Expanded Sources: 30+ news sources from 6 continents and 10+ languages
+Categorized Content: 8 distinct categories (breaking, sports, tech, politics, culture, entertainment, music, weather)
+Improved UI: Category tabs, country/language metadata, color-coded category badges
+Enhanced Scraping: Better error handling, user agent headers, increased article limits
+Category-Specific Research: Different research templates for each category
+Responsive Design: 4-column grid layout for better content presentation
+Visual Improvements: Better styling, shadows, rounded corners, improved typography
+Metadata Display: Shows source, country, and language for each article.
+---
 📂 Categorized Content
 Breaking News: Latest global developments and breaking stories
 Sports: Athletic events, competitions, and sports industry news
