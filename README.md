@@ -5,11 +5,12 @@ A sophisticated cross-platform desktop application that aggregates news from sou
 News Aggregator Screenshot
 
 🌍 Overview
-News Aggregator is a comprehensive desktop application built with Python that brings together breaking news and categorized content from over 30 major news sources across 6 continents and 10+ languages. The application provides a unified interface to access global news with enhanced deep-dive research on each article.
+News Aggregator is a comprehensive desktop application built with Python that in its initial commit was designed to bring together breaking news and categorized content from over 30 major news sources across 6 continents and 10+ languages. The application provides a unified interface to access global news with enhanced deep-dive research on each article. The Aggregator has now been updated to a more sophisticated app with expanded sources
 
 🚀 Features
 📰 Multi-Source News Aggregation
--**New additions**
+-**New additions**-
+
 Expanded Sources: 30+ news sources from 6 continents and 10+ languages
 Categorized Content: 8 distinct categories (breaking, sports, tech, politics, culture, entertainment, music, weather)
 Improved UI: Category tabs, country/language metadata, color-coded category badges
