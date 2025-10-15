@@ -183,7 +183,7 @@ UI/UX Improvements: Make the interface more intuitive and visually appealing
 ```
 
 # Fork and clone the repository
-git clone https://github.com/yourusername/news-aggregator.git
+git clone https://github.com/AjarnSpencer/newsaggregator.git
 cd news-aggregator
 
 # Create a virtual environment
